@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/Circle-Logo.png" alt="Just Dokis Logo" width="220">
+<img src="Assets/Circle-Logo.png" alt="Just Dokis Logo" width="220">
 
 ## Would anyone dedicate their entire life to fork something that is already perfect?
 
-<img src="assets/Text Just Dokis.png" alt="Just Dokis Desktop Banner" width="100%">
+<img src="Assets/Text Just Dokis.png" alt="Just Dokis Desktop Banner" width="100%">
 
 <br>
 

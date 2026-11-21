@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Nuevas funciones
+##  Nuevas funciones
 
 - **Comandos de Windows y acciones del PC — 20 % probado:** conversaciones dinámicas con memoria, cambios de expresión y poses automáticas según el estado de ánimo.
 - **Control del escritorio:** las chicas pueden interactuar de forma inteligente con tu entorno de Windows.

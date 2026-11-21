@@ -1,4 +1,0 @@
-#pragma once
-
-#define DDLC_DESKTOP_VERSION 210
-#define DDLC_DESKTOP_VERSION_STR "2.1.0"

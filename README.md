@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="Assets/Circle-Logo.png" alt="Just Dokis Logo" width="280">
-
 <br>
 
 <img src="Assets/Text Just Dokis.png" alt="Just Dokis" width="420">

@@ -70,5 +70,3 @@ To test a build, join the Discord server and contact the developer.
 ## Legal Notice
 
 This project is an unofficial fork of Doki Doki Literature Club! and belongs to Team Salvato.
-
-Just Dokis Desktop is distributed under the MIT license. See [LICENSE.txt](LICENSE.txt) for more information.

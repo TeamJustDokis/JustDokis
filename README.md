@@ -4,7 +4,7 @@
 
 ## Would anyone dedicate their entire life to fork something that is already perfect?
 
-<img src="assets/banner.png" alt="Just Dokis Desktop Banner" width="100%">
+<img src="assets/Text Just Dokis.png" alt="Just Dokis Desktop Banner" width="100%">
 
 <br>
 

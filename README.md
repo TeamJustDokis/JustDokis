@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="Assets/Circle-Logo.png" alt="Just Dokis Logo" width="220">
-<img src="Assets/Text Just Dokis.png" alt="Just Dokis Desktop Banner" width="100%">
+<img src="assets/banner.png" alt="Just Dokis Desktop Banner" width="100%">
 
 <br>
+
+<img src="assets/logo.png" alt="Just Dokis Logo" width="220">
+
+<br><br>
 
 **Just Dokis Desktop** is a fork of DDLC Desktop that adds new features, allowing the girls to interact with your PC and with you in a much more entertaining way, while evolving toward a modular C++ core and cross-platform architecture.
 

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Just Dokis Desktop Banner" width="100%">
+<img src="Assets/Text Just Dokis.png" alt="Just Dokis" width="420">
 
 <br>
 
-<img src="assets/logo.png" alt="Just Dokis Logo" width="220">
+<img src="Assets/Circle-Logo.png" alt="Just Dokis Logo" width="260">
 
 <br><br>
 
@@ -46,7 +46,7 @@ Configure models from the application's **Settings** menu:
 ## Preview
 
 <p align="center">
-  <img src="assets/preview.png" alt="Just Dokis Desktop preview">
+  <img src="Assets/preview.png" alt="Just Dokis Desktop preview">
 </p>
 
 ## Privacy and Responsible Use

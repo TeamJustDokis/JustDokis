@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Just Dokis Logo" width="220">
+<img src="assets/Circle-Logo.png" alt="Just Dokis Logo" width="220">
 
 ## Would anyone dedicate their entire life to fork something that is already perfect?
 

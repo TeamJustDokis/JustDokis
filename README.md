@@ -2,63 +2,63 @@
 
 # Just Dokis Desktop
 
-### ¿Alguien dedicaría la vida entera a hacer un fork de algo que ya es perfecto?
+### Would anyone dedicate their entire life to fork something that is already perfect?
 
 ![Just Dokis](assets/just-dokis.png)
 
-**Just Dokis Desktop** es un fork del código de DDLC Desktop que incorpora nuevas funciones para que las chicas puedan interactuar con tu PC y contigo de una forma mucho más divertida.
+**Just Dokis Desktop** is a fork of DDLC Desktop that adds new features, allowing the girls to interact with your PC and with you in a much more entertaining way.
 
-[🌐 Sitio web](https://umr-chan.github.io/DokisWeb-/main.html) · [💬 Discord](https://discord.gg/wTjeeJRvJp)
+[Website](https://umr-chan.github.io/DokisWeb-/main.html) · [Discord](https://discord.gg/wTjeeJRvJp)
 
 </div>
 
 ---
 
-##  Nuevas funciones
+## New Features
 
-- **Comandos de Windows y acciones del PC — 20 % probado:** conversaciones dinámicas con memoria, cambios de expresión y poses automáticas según el estado de ánimo.
-- **Control del escritorio:** las chicas pueden interactuar de forma inteligente con tu entorno de Windows.
-- **Consumo mínimo de recursos — modo nube/local:** compatible con `deepseek-v4.1-flash:cloud` en Ollama para funcionar sin usar RAM local.
-- **Traducción al español:** interfaz, menús y sistema adaptados al español. La traducción se encuentra en una fase temprana y sigue en desarrollo.
-- **Soporte adicional de modelos:** integración mejorada con Ollama y compatibilidad con Groq.
+- **Windows commands and PC actions — 20% tested:** dynamic conversations with memory, expression changes, and automatic poses based on mood.
+- **Desktop control:** the girls can interact intelligently with your Windows environment.
+- **Minimal resource usage — cloud/local mode:** compatible with `deepseek-v4.1-flash:cloud` in Ollama for operation without local RAM usage.
+- **English interface:** menus and interface updated to English. The translation is in an early stage and remains under development.
+- **Additional model support:** improved integration with Ollama and Groq compatibility.
 
-## 🤖 Modelos recomendados
+## Recommended Models
 
-Configura los modelos desde el menú **Settings** de la aplicación:
+Configure models from the application's **Settings** menu:
 
-1. **Ollama Cloud — recomendado:** `deepseek-v4.1-flash:cloud`  
-   Gratis, rápido y sin consumir recursos locales.
+1. **Ollama Cloud — recommended:** `deepseek-v4.1-flash:cloud`  
+   Free, fast, and without local resource consumption.
 2. **Ollama Local:** `llama3:latest`  
-   Completamente offline y sin límites de solicitudes.
-3. **Groq Cloud:** `llama-3.3-70b-versatile` o `llama-3.1-8b-instant`.
-4. **Modelos multimodales offline:** también son compatibles.
+   Fully offline and with no request limits.
+3. **Groq Cloud:** `llama-3.3-70b-versatile` or `llama-3.1-8b-instant`.
+4. **Offline multimodal models:** also supported.
 
-## 🖼️ Vista previa
+## Preview
 
 <p align="center">
-  <img src="assets/preview.png" alt="Vista previa de Just Dokis Desktop">
+  <img src="assets/preview.png" alt="Just Dokis Desktop preview">
 </p>
 
-## ⚠️ Privacidad y uso responsable
+## Privacy and Responsible Use
 
-Se han utilizado modelos generativos como Copilot y Gemini para tareas como:
+Generative models such as Copilot and Gemini have been used for tasks including:
 
-- ejecutar acciones en el PC;
-- tomar capturas de pantalla y analizar imágenes;
-- identificar procesos activos, como Spotify.
+- executing actions on the PC;
+- taking screenshots and analyzing images;
+- identifying active processes, such as Spotify.
 
-Ten en cuenta que las imágenes, los procesos activos y otros datos similares pueden enviarse a las empresas responsables de los modelos gratuitos o multimodales para el entrenamiento de sus servicios.
+Note that images, active processes, and similar data may be sent to the companies responsible for free or multimodal models for training their services.
 
-**Se recomienda usar modelos locales siempre que sea posible.** Estos pueden exigir muchos recursos del sistema, y el autor no se hace responsable de posibles problemas derivados de su uso.
+**Using local models whenever possible is recommended.** They may require significant system resources, and the author is not responsible for any problems caused by their use.
 
-## 📌 Estado del proyecto
+## Project Status
 
-**Fase:** Moderadamente estable
+**Phase:** Moderately stable
 
-Para probar una compilación, únete al servidor de Discord y ponte en contacto con el desarrollador.
+To test a build, join the Discord server and contact the developer.
 
-## ⚖️ Aviso legal
+## Legal Notice
 
-Este proyecto es un fork no oficial de Doki Doki Literature Club! y pertenece a Team Salvato.
+This project is an unofficial fork of Doki Doki Literature Club! and belongs to Team Salvato.
 
-Just Dokis Desktop se distribuye bajo la licencia MIT. Consulta el archivo [LICENSE.txt](LICENSE.txt) para obtener más información.
+Just Dokis Desktop is distributed under the MIT license. See [LICENSE.txt](LICENSE.txt) for more information.

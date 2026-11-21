@@ -1,11 +1,8 @@
 <div align="center">
 
-<h1>
-  <img src="assets/logo.png" alt="Just Dokis Logo" width="48" valign="middle">
-  Just Dokis Desktop
-</h1>
+<img src="assets/logo.png" alt="Just Dokis Logo" width="220">
 
-### Would anyone dedicate their entire life to fork something that is already perfect?
+## Would anyone dedicate their entire life to fork something that is already perfect?
 
 <img src="assets/banner.png" alt="Just Dokis Desktop Banner" width="100%">
 

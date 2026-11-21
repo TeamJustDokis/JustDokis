@@ -1,10 +1,15 @@
 <div align="center">
 
-# Just Dokis Desktop
+<h1>
+  <img src="assets/logo.png" alt="Just Dokis Logo" width="48" valign="middle">
+  Just Dokis Desktop
+</h1>
 
 ### Would anyone dedicate their entire life to fork something that is already perfect?
 
-![Just Dokis](assets/just-dokis.png)
+<img src="assets/banner.png" alt="Just Dokis Desktop Banner" width="100%">
+
+<br>
 
 **Just Dokis Desktop** is a fork of DDLC Desktop that adds new features, allowing the girls to interact with your PC and with you in a much more entertaining way, while evolving toward a modular C++ core and cross-platform architecture.
 

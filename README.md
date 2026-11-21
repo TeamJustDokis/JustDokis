@@ -69,4 +69,4 @@ To test a build, join the Discord server and contact the developer.
 
 ## Legal Notice
 
-This project is an unofficial fork of Doki Doki Literature Club! and belongs to Team Salvato.
+The application requires the assets from the original Doki Doki Literature Club game to function.

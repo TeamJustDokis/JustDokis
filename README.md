@@ -27,7 +27,6 @@
 ## Architecture & Roadmap
 
 - **Modular C++ structure:** separating portable core logic (`shared_core/` — Gemini/API client, retry/backoff handling, Chibi state machine) from platform-specific code (`windows/` using Win32 API).
-- **Windows installer (Inno Setup):** stabilized installer with manual path selection and validation checks (including `audio.archive`).
 - **Android port (planned / in progress):** isolating portable C++ modules for future Android NDK / CMake / JNI integration without breaking the Windows desktop build.
 
 ## Recommended Models
